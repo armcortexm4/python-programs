@@ -1,0 +1,6 @@
+a=int(input ("Enter the first no"))
+b=int(input("enter second no"))
+print(f"The sum of {a}and {b} is {a+b}")
+print(f"The difference of {a}and {b} is {a-b}")
+print(f"The product of {a}and {b} is {a*b}")
+print(f"The division of {a} and {b} is {a*b}")
